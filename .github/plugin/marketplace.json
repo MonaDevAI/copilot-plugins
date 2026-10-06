@@ -155,7 +155,7 @@
         "repo": "MonaDevAI/FixLab"
       },
       "description": "Evidence-backed defect diagnosis, repair, and validation for React and .NET repositories.",
-      "version": "0.7.2",
+      "version": "0.7.3",
       "author": {
         "name": "MonaDevAI",
         "url": "https://github.com/MonaDevAI"
@@ -439,4 +439,5 @@
     }
   ]
 }
+
 
